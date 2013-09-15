@@ -1,4 +1,4 @@
-# Guard-Spork-Spec Boilerplate
+# RSpec-guard-spork Boilerplate
 
 A boilerplate project template for Ruby to kickstart behaviour-driven development using RSpec.
 
@@ -20,4 +20,4 @@ and there you are.
 
 # License
 
-This code is in the Public Domain.  You don't need to mention my authorship.
+This code is in the Public Domain.  See `LICENSE.md`.
