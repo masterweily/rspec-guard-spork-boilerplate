@@ -20,4 +20,4 @@ and there you are.
 
 # License
 
-This code is in the Public Domain.  See `LICENSE.md`.
+This code is in the Public Domain.  See [LICENSE](./LICENSE)
