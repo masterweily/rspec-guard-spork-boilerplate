@@ -8,7 +8,7 @@
 
 ```rm -rf .git```
 
-```git init new_app_name```
+```git init```
 
 <b>start running</b>
 
