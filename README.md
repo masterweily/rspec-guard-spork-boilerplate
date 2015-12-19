@@ -1,4 +1,6 @@
 <b>Clone and start new project</b>
+</br>
+```git clone git@github.com:masterweily/rspec-guard-spork-boilerplate.git```
 
 ```mv rspec-guard-spork-boilerplate new_app_name```
 
